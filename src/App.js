@@ -27,8 +27,8 @@ class App extends Component {
             <div className="paragraph">
               <span>
                 I'm currently the co-founder and CEO at{" "}
-                <a href="https://angel.co/mira-ai/jobs">Mira</a>, building the
-                beauty shopping experience of the future with{" "}
+                <a href="http://askmira.com">Mira</a>, building the beauty
+                shopping experience of the future with{" "}
                 <a href="https://www.linkedin.com/in/brandon-garcia-28555850/">
                   Brandon Garcia
                 </a>{" "}
