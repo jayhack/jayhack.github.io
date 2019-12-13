@@ -12,7 +12,7 @@
     "@fortawesome/react-fontawesome": "^0.1.4",
     "gh-pages": "^2.0.1",
     "i": "^0.3.6",
-    "npm": "^6.8.0",
+    "npm": "^6.13.4",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
