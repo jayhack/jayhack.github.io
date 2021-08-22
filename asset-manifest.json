@@ -1,7 +1,21 @@
 {
-  "main.css": "static/css/main.1267638a.css",
-  "main.css.map": "static/css/main.1267638a.css.map",
-  "main.js": "static/js/main.1ffe1066.js",
-  "main.js.map": "static/js/main.1ffe1066.js.map",
-  "static/media/headshot.png": "static/media/headshot.aae5fa13.png"
+  "files": {
+    "main.css": "/jayhack.github.io/static/css/main.a7ceb1b0.chunk.css",
+    "main.js": "/jayhack.github.io/static/js/main.4a5df0df.chunk.js",
+    "main.js.map": "/jayhack.github.io/static/js/main.4a5df0df.chunk.js.map",
+    "runtime-main.js": "/jayhack.github.io/static/js/runtime-main.ac0610f6.js",
+    "runtime-main.js.map": "/jayhack.github.io/static/js/runtime-main.ac0610f6.js.map",
+    "static/js/2.94b59e95.chunk.js": "/jayhack.github.io/static/js/2.94b59e95.chunk.js",
+    "static/js/2.94b59e95.chunk.js.map": "/jayhack.github.io/static/js/2.94b59e95.chunk.js.map",
+    "index.html": "/jayhack.github.io/index.html",
+    "static/css/main.a7ceb1b0.chunk.css.map": "/jayhack.github.io/static/css/main.a7ceb1b0.chunk.css.map",
+    "static/js/2.94b59e95.chunk.js.LICENSE.txt": "/jayhack.github.io/static/js/2.94b59e95.chunk.js.LICENSE.txt",
+    "static/media/headshot.b264758a.png": "/jayhack.github.io/static/media/headshot.b264758a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac0610f6.js",
+    "static/js/2.94b59e95.chunk.js",
+    "static/css/main.a7ceb1b0.chunk.css",
+    "static/js/main.4a5df0df.chunk.js"
+  ]
 }
